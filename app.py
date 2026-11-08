@@ -9,7 +9,6 @@ from calculos import SimuladorFinanceiro
 
 st.set_page_config(
     page_title="Simulador de Projeção Patrimonial",
-    page_icon="📈"
     layout="wide"
     initial_sidebar_state="expanded"
 )
