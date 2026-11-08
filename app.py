@@ -130,7 +130,7 @@ fig.add_trace(go.Scatter(
 fig.add_trace(go.Scatter(
     x=df["Ano"],
     y=df["Patrimônio Real"],
-    mode="lines
+    mode="lines"
     name="Patrimônio Real (Poder de Compra)",
     line=dict(color="#00b0ff", width=2.5)
 ))
